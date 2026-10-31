@@ -1,0 +1,6 @@
+{
+  "name": "AgriLens: AI Crop Advisory Assistant",
+  "description": "AI-powered Computer Vision crop advisory platform providing visual pathology diagnosis, normalized bounding box lesion tracking, and personalized sustainable treatment plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
